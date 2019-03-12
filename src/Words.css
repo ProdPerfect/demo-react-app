@@ -1,0 +1,68 @@
+.react-logo {
+  height: 100%;
+}
+
+.main {
+    color: #535355;
+    text-align: left;
+    margin: 0 10% 0 10%;
+    font-family: "Raleway", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+body {
+    background-color: white;
+}
+
+.inline-code {
+    display: inline;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+    background-color: lightgrey;
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+    padding: 3px;
+    white-space: nowrap;
+    margin: inherit;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.run-locally-instructions > li {
+    margin-top: 8px;
+}
+
+.header {
+    text-align: center;
+    height: 30px;
+    margin-bottom: 36px;
+    margin-top: 40px;
+
+}
+
+h1 {
+    font-family: "Raleway", Sans-serif;
+    font-size: 175%;
+    font-weight: 800;
+    color: #285ca6;
+    text-align: center;
+    padding-top: 15px;
+    height: 100%;
+    vertical-align: middle;
+}
+
+h2 {
+    font-family: "Raleway", Sans-serif;
+    /*font-size: 30px;*/
+    font-weight: 800;
+    color: #285ca6;
+    /*line-height: 0.5em;*/
+}
+
+.foo {
+    font-size: 0.8em;
+}
