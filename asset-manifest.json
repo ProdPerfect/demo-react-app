@@ -1,0 +1,15 @@
+{
+  "main.css": "/demo-react-app/static/css/main.7dd6f1bd.chunk.css",
+  "main.js": "/demo-react-app/static/js/main.c3248524.chunk.js",
+  "main.js.map": "/demo-react-app/static/js/main.c3248524.chunk.js.map",
+  "runtime~main.js": "/demo-react-app/static/js/runtime~main.4a9203b2.js",
+  "runtime~main.js.map": "/demo-react-app/static/js/runtime~main.4a9203b2.js.map",
+  "static/js/2.b4fcef41.chunk.js": "/demo-react-app/static/js/2.b4fcef41.chunk.js",
+  "static/js/2.b4fcef41.chunk.js.map": "/demo-react-app/static/js/2.b4fcef41.chunk.js.map",
+  "index.html": "/demo-react-app/index.html",
+  "precache-manifest.be52ccfdbdc3cf09d3fb60543f965dac.js": "/demo-react-app/precache-manifest.be52ccfdbdc3cf09d3fb60543f965dac.js",
+  "service-worker.js": "/demo-react-app/service-worker.js",
+  "static/css/main.7dd6f1bd.chunk.css.map": "/demo-react-app/static/css/main.7dd6f1bd.chunk.css.map",
+  "static/media/logo.svg": "/demo-react-app/static/media/logo.5d5d9eef.svg",
+  "static/media/p2-color-logo.png": "/demo-react-app/static/media/p2-color-logo.8a478909.png"
+}
